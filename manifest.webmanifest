@@ -1,0 +1,17 @@
+{
+  "name": "Roleta — Painel de análise",
+  "short_name": "Painel Roleta",
+  "description": "Estatísticas históricas e probabilidades teóricas da roleta europeia.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#101310",
+  "theme_color": "#101310",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
